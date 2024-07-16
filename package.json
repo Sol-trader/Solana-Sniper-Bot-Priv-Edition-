@@ -1,6 +1,6 @@
 {
   "name": "sol-sniper-bot",
-  "author": "SoaR Dev",
+  "author": "SolTrader Dev",
   "scripts": {
     "ssb": "ts-node ssb_start.ts"
   },
